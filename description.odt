@@ -1,0 +1,49 @@
+﻿				    Description
+
+Cette page offre au etudiants etrangers des informations, aides.
+Les etudiants peuvent faire des annonces aux evenement,achat ,vente,commniquer avec les autres etudiants etrangers .
+
+
+				   Partie commune 
+
+dans tous les pages il y aura le logo, bar de navigation contient (main,achat,vente,contact us).
+On va afficher aussi un bouton appler lng pour choisr entre les langes (fr , ang)
+au dessous de la bar de navigation il y aura une partie pour le recherche avec ça boutton .
+Il y aura aussi une partie pour mes achat et compte.
+Dans le footer on va afficher des choix (contact us , about us , need help , et les notres pages de communication mail , facebook ,instagram (avec les logos)	
+			
+					Page main
+
+dans la page main on va afficher les envements les plus recents et une petite description sur notre site .
+
+				      Page achat
+dans la page achat il y aura tous les annonces et les produits offres par les autres étudiants 
+
+
+ 					page vente 
+
+dans la page vente on va offir au étudiants qui ont le compte seulement a créé leur annonces  
+il y aura un parie pour écrire la description du produit place pour insérer une image .
+
+
+			     Page login/sign up
+
+cette page …
+
+			      page communication 
+
+on va afficher dans cette page tous les evenements , avec la possibilité de pariciper si on a un compte.
+
+			         Page about us
+
+informations sur le site et les gens qui le gére (organisation , association …)
+
+
+
+				   page contact us
+ 
+on va afficher tous les moyen de communication possible avec le site « mail » 
+
+				   page need help
+ ….
+
