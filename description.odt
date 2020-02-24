@@ -1,21 +1,21 @@
 ﻿				    Description
 
-Cette page offre au etudiants etrangers des informations, aides.
-Les etudiants peuvent faire des annonces aux evenement,achat ,vente,commniquer avec les autres etudiants etrangers .
+Cette page offre au étudiants étrangers des informations, aides.
+Les étudiants peuvent faire des annonces aux événement,achat ,vente,communiquer avec les autres étudiants étrangers .
 
 
 				   Partie commune
 
 dans tous les pages il y aura le logo, bar de navigation contient (main,achat,vente,contact us).
-On va afficher aussi un bouton appler lng pour choisr entre les langes (fr , ang)
-au dessous de la bar de navigation il y aura une partie pour le recherche avec ça boutton .
+On va afficher aussi un bouton appeler lng pour choisir entre les langes (fr , ang)
+au dessous de la bar de navigation il y aura une partie pour le recherche avec ça bouton .
 Il y aura aussi une partie pour mes achat et compte.
-Dans le footer on va afficher des choix (contact us , about us , need help , et les notres pages de communication mail , facebook ,instagram (avec les logos).
+Dans le footer on va afficher des choix (contact us , about us , need help , et les autres pages de communication mail , Facebook ,Instagram (avec les logos).
 on va le deviser après en aside.php footer.php navbar.php accbar.php
 
 					Page main
 
-dans la page main on va afficher les envements les plus recents et une petite description sur notre site .
+dans la page main on va afficher les événements les plus récents et une petite description sur notre site .
 
 				      Page achat
 dans la page achat il y aura tous les annonces et les produits offert par les autres étudiants
@@ -23,7 +23,7 @@ dans la page achat il y aura tous les annonces et les produits offert par les au
 
  					page vente
 
-dans la page vente on va offir au étudiants qui ont le compte seulement a créé leur annonces
+dans la page vente on va offrir au étudiants qui ont le compte seulement a créé leur annonces
 il y aura un partie pour écrire la description du produit place pour insérer une image .
 
 
@@ -33,12 +33,11 @@ cette page …
 
 			      page communication
 
-on va afficher dans cette page tous les evenements , avec la possibilité de participer si on a un compte.
+on va afficher dans cette page tous les événements , avec la possibilité de participer si on a un compte.
 
 			         Page about us
 
-informations sur le site et les gens qui le gére (organisation , association …)
-
+informations sur le site et les gens qui le gère (organisation , association …)
 
 
 				   page contact us
@@ -46,4 +45,4 @@ informations sur le site et les gens qui le gére (organisation , association �
 on va afficher tous les moyen de communication possible avec le site « mail »
 
 				   page need help
- ….
+ …
