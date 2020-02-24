@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Index</title>
+	<title>Communication</title>
 </head>
 <body>
 	<div class="">
@@ -10,9 +10,11 @@
 		<img src="#" alt="logo">
 	</div>
 	<?php include 'aside.php'; ?>
-	<div class="evenments">
-		//affiche les annonces & evenments
+	<div class="">
+		//affichage evenments
 	</div>
 	<?php include 'footer.php'; ?>
+
+
 </body>
 </html>

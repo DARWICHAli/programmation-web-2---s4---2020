@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Index</title>
+	<title>Mes Achat</title>
 </head>
 <body>
 	<div class="">
@@ -10,8 +10,9 @@
 		<img src="#" alt="logo">
 	</div>
 	<?php include 'aside.php'; ?>
-	<div class="evenments">
-		//affiche les annonces & evenments
+	<div class="">
+		//affichage des produits que l'étudiant a acheter
+		<img src="" alt="produit1">
 	</div>
 	<?php include 'footer.php'; ?>
 </body>

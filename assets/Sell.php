@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Index</title>
+	<title>Sell</title>
 </head>
 <body>
 	<div class="">
@@ -10,9 +10,10 @@
 		<img src="#" alt="logo">
 	</div>
 	<?php include 'aside.php'; ?>
-	<div class="evenments">
-		//affiche les annonces & evenments
+	<div class="">
+
 	</div>
+
 	<?php include 'footer.php'; ?>
 </body>
 </html>
