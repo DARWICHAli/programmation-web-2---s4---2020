@@ -9,7 +9,7 @@
 		<?php include './templates/accbar.php'; ?>
 		<img src="#" alt="logo">
 	</div>
-	<?php include 'aside.php'; ?>
+	<?php include './templates/aside.php'; ?>
 	<div class="evenments">
 		//affiche les annonces & evenments
 	</div>
