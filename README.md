@@ -18,9 +18,10 @@ Site multi page (7 pages) avec 2 langues disponible anglais et français.
 
 # annonces : communication.php
 
-     **afficher tous les annonces avec détail .
-     on peut aussi crée un événement si on a un compte
-     il y aura aussi une partie de discussion entre les utilisateurs.**
+**afficher tous les annonces avec détail .
+on peut aussi crée un événement si on a un compte
+il y aura aussi une partie de discussion entre les utilisateurs.**
+
 # Contact us : contactus.php
 
 **Mentions légales avec un petit formulaire pour envoyer un message au propriétaire du site.**
