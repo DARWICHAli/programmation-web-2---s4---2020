@@ -18,9 +18,9 @@ tous les annonces récent seront afficher dans la page d’accueil , on peut aus
 
 # annonces : communication.php
 
-    *afficher tous les annonces avec détail ;
-    *on peut crée un événement si on a un compte
-    *il y aura aussi une partie de discussion entre les utilisateur.*
+    * afficher tous les annonces avec détail ;
+    * on peut crée un événement si on a un compte
+    * il y aura aussi une partie de discussion entre les utilisateurs.
 # Contact us : contactus.php
 
 Mentions légales avec un petit formulaire pour envoyer un message au propriétaire du site.
