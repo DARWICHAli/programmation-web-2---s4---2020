@@ -1,8 +1,8 @@
-#description du site
+##description du site
 
 Site multi page (7 pages) avec 2 langues disponible anglais et français.
 
-#URLs:
+##URLs:
 
 * index.php         
 * contactus.php      
