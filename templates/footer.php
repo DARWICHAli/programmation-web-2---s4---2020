@@ -10,13 +10,10 @@
   	<div class="flex-container">
   		<div class="cont1">
   			<ul><a href="/adarwich/programmation-web-2---s4---2020/index.php">Home</a></ul>
-  			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/communication.php">communication</a></ul>
-  			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/Buy.php">Buy</a></ul>
-  			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/Sell.php">Sell</a></ul>			
+  			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/communication.php">communication</a></ul>			
   		</div>
   		<div class="cont2">
   			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/myaccount.php">my acc</a></ul>
-  			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/mesachat.php">mes achats</a></ul>
   			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/signin.php">sign in</a></ul>
   			<ul><a href="/adarwich/programmation-web-2---s4---2020/assets/signup.php">sign up</a></ul>
   		</div>
@@ -31,14 +28,14 @@
         <ul>
           <a href="https://www.twitter.com">
             <img alt="twitter_logo" src="/adarwich/programmation-web-2---s4---2020/assets/twitter_icon.jpg">
-          </a>  
+          </a>
         </ul>
         <ul>
           <a href="https://www.instagram.com">
             <img alt="insta_logo" src="/adarwich/programmation-web-2---s4---2020/assets/insta_icon.png">
-          </a>  
+          </a>
         </ul>
-        
+
   		</div>
   	</div>
   </body>

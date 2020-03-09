@@ -10,11 +10,17 @@
       <ul>
         <li> <a href="/adarwich/programmation-web-2---s4---2020/index.php">Home</a></li>
         <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/communication.php">communication</a></li>
-        <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/Buy.php">Buy</a></li>
         <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/contactus.php">contact us</a></li>
         <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/aboutus.php">about us</a></li>
-      </ul>  
+      </ul>
     </div>
-  	
+    <div class="compte_bar">
+      <ul>
+        <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/myaccount.php">My Account</a></li>
+        <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/signin.php">Sign In</a></li>
+        <li> <a href="/adarwich/programmation-web-2---s4---2020/assets/signup.php">Sign up</a></li>
+      </ul>
+    </div>
+
   </body>
 </html>
