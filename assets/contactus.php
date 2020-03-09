@@ -18,6 +18,11 @@
 		<p>NO 06112341234123</p>
 		<p>mail: someth@turing.u-strasbg.fr</p>
 	</div>
+	<div class="">
+		<textarea placeholder="Votre message"></textarea>
+		<button type="send">Envoyer</button>
+
+	</div>
 	<?php include '../templates/footer.php'; ?>
 </body>
 </html>
