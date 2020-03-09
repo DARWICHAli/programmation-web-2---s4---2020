@@ -14,32 +14,32 @@ Site multi page (7 pages) avec 2 langues disponible anglais et français.
 
 # Acceuil : "index.php"
 
-tous les annonces récent seront afficher dans la page d’accueil , on peut aussi
+**tous les annonces récent seront afficher dans la page d’accueil mais si on veut plus d'informations il faut cliquer sur le photo pour voir les details sur l'annoce dans la page communication.php**
 
 # annonces : communication.php
 
-     *afficher tous les annonces avec détail .
+     **afficher tous les annonces avec détail .
      on peut aussi crée un événement si on a un compte
-     il y aura aussi une partie de discussion entre les utilisateurs.*
+     il y aura aussi une partie de discussion entre les utilisateurs.**
 # Contact us : contactus.php
 
-Mentions légales avec un petit formulaire pour envoyer un message au propriétaire du site.
+**Mentions légales avec un petit formulaire pour envoyer un message au propriétaire du site.**
 
 # Mon compte :myaccount.php
 
-On affichera dans cette page toutes les informations liées à un utilisateur avec la possibilité de les changer
+**On affichera dans cette page toutes les informations liées à un utilisateur avec la possibilité de les changer**
 
 # qui sommes nous : aboutus.php
 
-brève description sur l'association
+**brève description sur l'association**
 
 # signin  : Signin.php
 
-Une page pour connecter au compte
+**Une page pour connecter au compte**
 
 # Signup  : signup.php
 
-Une page pour créer le compte
+**Une page pour créer le compte**
 
 ## Structure du projet
 
