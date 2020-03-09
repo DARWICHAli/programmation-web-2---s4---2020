@@ -17,8 +17,9 @@
   padding: 14px 16px;
   text-decoration: none;
 }
-
 .navbar li a:hover {
   background-color: #111;
 }
-
+.navbar .compte {
+    float: right;
+}
