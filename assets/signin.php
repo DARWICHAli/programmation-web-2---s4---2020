@@ -14,11 +14,12 @@
 
 		<form class="se_connecter">
 			<caption>Se Connecter<caption>
-			<input type="text" for="pseudo" placeholder="Pseudo"/>
-			<input type="password" placeholder="Mot de passe"/>
-			<button type="send">Me Connecter</button>
-		</form>
+			<input id = "email" type="email" placeholder="* E-mail"/>
+			<input id = "paswd" type="password" placeholder="* Mot de passe"/>
+			<button id= "button_sign"type="button">Me Connecter</button>
+		</form> 
 	</section>
 	<?php include '../templates/footer.php';  ?>
 </body>
+<script src="signin.js"></script>
 </html>
