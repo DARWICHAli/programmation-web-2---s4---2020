@@ -4,23 +4,25 @@
 
 
 button_sign.onclick = function(){
-	/*
-	var tmp = document.getElementById("email").value ;
 
+	var tmp = document.getElementById("email").value ;
 	var bol = document.getElementById("email").value.indexOf("@");
 	var bol1 = document.getElementById("email").value.indexOf(".");
-	if(bol == -1 && bol1 == -1){
+	//alert(bol + bol1);
+	if(bol == -1 && bol1 == -1){ // ni @ ni .
+		document.getElementById("email").value = "" ;
 		document.getElementById("email").placeholder = "no @ && ." ;
 	}
-	if(bol ==  -1 ){
+	else if(bol ==  -1 ){
 		//alert("no @");
+		document.getElementById("email").value = "" ;
 		document.getElementById("email").placeholder = "no @" ;
 	}
-	if(bol1 == -1){
+	else if(bol1 == -1){
 		//alert("no .");
+		document.getElementById("email").value = "" ;
 		document.getElementById("email").placeholder = "no @" ;
 	}
-	*/	
 	if( document.getElementById("paswd").value.length < 6){
 		//alert("too short");
 		document.getElementById("paswd").value = "" ;
@@ -30,6 +32,5 @@ button_sign.onclick = function(){
 		document.getElementById("button_sign").type = "send" ;
 	}
 
-	//alert("nope"); 
+	//alert("nope");
 }
-

@@ -14,10 +14,10 @@
 
 		<form class="se_connecter">
 			<caption>Se Connecter<caption>
-			<input id = "email" type="email" placeholder="* E-mail"/>
+			<input id = "email" type="text" placeholder="* E-mail"/>
 			<input id = "paswd" type="password" placeholder="* Mot de passe"/>
 			<button id= "button_sign"type="button">Me Connecter</button>
-		</form> 
+		</form>
 	</section>
 	<?php include '../templates/footer.php';  ?>
 </body>
