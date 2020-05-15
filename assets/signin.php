@@ -12,12 +12,19 @@
 	<?php include '../templates/aside.php'; ?>
 	<section class="se_connecter">
 
-		<form class="se_connecter">
+		<form method ="post" class="se_connecter">
 			<caption>Se Connecter<caption>
-			<input id = "email" type="text" placeholder="* E-mail"/>
-			<input id = "paswd" type="password" placeholder="* Mot de passe"/>
+			<div>
+				<label for="email"></label>
+				<input id = "email" name="email" type="text" placeholder="* E-mail"/>
+			</div>
+			<div>
+				<label for="password"></label>
+				<input id = "paswd" name= "password" type="password" placeholder="* Mot de passe"/>
+			</div>
 			<button id= "button_sign"type="button">Me Connecter</button>
 		</form>
+
 	</section>
 	<?php include '../templates/footer.php';  ?>
 </body>

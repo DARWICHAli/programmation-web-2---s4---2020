@@ -1,6 +1,6 @@
 
 
-
+var button_sign = document.getElementById('button_sign');
 
 button_sign.onclick = function(){
 	
@@ -32,7 +32,7 @@ button_sign.onclick = function(){
 		document.getElementById("paswd1").placeholder = "mot de pass pas identique" ;
 	}
 	else{
-		document.getElementById("button_sign").type = "send" ;
+		document.getElementById("button_sign").type = "submit" ;
 	}
 
 }

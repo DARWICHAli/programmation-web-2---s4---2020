@@ -1,24 +1,23 @@
 
-
-
+var button_sign = document.getElementById('button_sign');
 
 
 button_sign.onclick = function(){
 
-	var tmp = document.getElementById("email").value ;
+	const tmp = document.getElementById("email").value;
 	var bol = document.getElementById("email").value.indexOf("@");
-	var bol1 = document.getElementById("email").value.indexOf(".");
+	const bol1 = document.getElementById("email").value.indexOf(".");
 	//alert(bol + bol1);
-	if(bol == -1 && bol1 == -1){ // ni @ ni .
+	if(bol === -1 && bol1 == -1){ // ni @ ni .
 		document.getElementById("email").value = "" ;
 		document.getElementById("email").placeholder = "no @ && ." ;
 	}
-	else if(bol ==  -1 ){
+	else if(bol ===  -1 ){
 		//alert("no @");
 		document.getElementById("email").value = "" ;
 		document.getElementById("email").placeholder = "no @" ;
 	}
-	else if(bol1 == -1){
+	else if(bol1 === -1){
 		//alert("no .");
 		document.getElementById("email").value = "" ;
 		document.getElementById("email").placeholder = "no @" ;
