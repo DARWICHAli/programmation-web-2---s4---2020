@@ -1,6 +1,7 @@
 <?php
 $prenom = $_POST['prenom'];
 $message = $_POST['message'];
+
     try {
         $pdo = new PDO('sqlite:' . dirname(__FILE__) . '/database.db');
         $pdo->setAttribute( PDO::ATTR_DEFAULT_FETCH_MODE ,PDO::FETCH_ASSOC);

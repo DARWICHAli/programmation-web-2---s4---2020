@@ -11,6 +11,17 @@
 		<img src="#" alt="logo">
 	</div>
 	<?php include '../templates/aside.php'; ?>
+    <div class="creer_annonce">
+        <div>
+            <label for="Prenom"></label>
+            <input id = "prename" type="text" name= "prename" />
+        </div>
+        <div>
+            <label for="message"></label>
+            <textarea id="message" name="message"></textarea>
+        </div>
+        <button type="submit">Envoyer</button>
+    </div>
 	<div class="annonce">
 		<div class="">
 			<img src="an_lol.jpg">
@@ -31,32 +42,20 @@
 	</div>
     <section id="display_annonce">
         <?php
-        $annonces = $pdo->query(
-                'SELECT * FROM annoce'
+        $ads = $pdo->query(
+                'SELECT * FROM annonce'
         )->fetchAll();
-        
-        foreach ($annonces as $annonce){
+        foreach ($ads as $ad){
         ?>
             <div>
                 <img src="an_lol.jpg">
-                <p><?php echo $annonce['prenom'];?></p>
-                <p><?php echo $annonce['message'];?></p>
+                <p><?php echo $ad['prenom'];?></p>
+                <p><?php echo $ad['message'];?></p>
             </div>
         <?php
         }
         ?>
     </section>
-    <div class="creer_annonce">
-        <div>
-            <label for="Prenom"></label>
-            <input id = "prename" type="text" name= "prename" />
-        </div>
-        <div>
-            <label for="message"></label>
-            <textarea id="message" name="message"></textarea>
-        </div>
-        <button type="send">Envoyer</button>
-    </div>
 
 	<?php include '../templates/footer.php'; ?>
     <?php include '../form2.php'; ?>
